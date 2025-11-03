@@ -21,6 +21,7 @@ Clone this repo:
 ```
 https://github.com/LexieK7/COIN.git
 cd COIN
+conda env create -f requirements.yml
 ```
 
 
