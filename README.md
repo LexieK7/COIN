@@ -7,8 +7,10 @@
 COIN is a foundation model for controllable cytology image generation, trained on over 112,000 cytology image-report pairs across 16 anatomical sites.
 It enables privacy-preserving, realistic synthetic cytology image generation driven by diagnostic reports.
 
-### 📝 Abstract
+The pretrained COIN model weights are available on [Hugging Face](https://huggingface.co/LexieK/COIN).  
+You can request access and download the weights directly from the link above.
 
+### 📝 Abstract
 
 
 
