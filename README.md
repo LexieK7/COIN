@@ -10,6 +10,8 @@ It enables privacy-preserving, realistic synthetic cytology image generation dri
 The pretrained COIN model weights are available on [Hugging Face](https://huggingface.co/LexieK/COIN).  
 You can request access and download the weights directly from the link above.
 
+🎉 We are also delighted to share that the COIN manuscript has been accepted by Clinical Cancer Research.
+
 ### 📝 Abstract
 
 
