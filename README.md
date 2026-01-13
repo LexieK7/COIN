@@ -1,6 +1,10 @@
-# 📌 COIN: A Controllable Cytology Image Generation Foundation Model
+# 📌 COIN: A Generative Foundation Model for Scalable Cytology Image Synthesis
 
 <p align="center"> <img src="https://img.shields.io/badge/Cytology-Foundation--Model-green" /> <img src="https://img.shields.io/badge/Generative-AI-FF69B4" /> 
+
+#### Clinical Cancer Research
+
+#### [Journal Link]([https://www.nature.com/articles/s41746-025-01808-7](https://aacrjournals.org/clincancerres/article/doi/10.1158/1078-0432.CCR-25-2445/771470/A-Generative-Foundation-Model-for-Scalable))
   
 ### 🌟 Project Highlights
 
