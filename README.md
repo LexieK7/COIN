@@ -4,7 +4,11 @@
 
 #### Clinical Cancer Research
 
-#### [Journal Link](https://aacrjournals.org/clincancerres/article/doi/10.1158/1078-0432.CCR-25-2445/771470/A-Generative-Foundation-Model-for-Scalable)
+#### [Journal Link](https://aacrjournals.org/clincancerres/article/doi/10.1158/1078-0432.CCR-25-2445/771470/A-Generative-Foundation-Model-for-Scalable
+        
+        
+        
+        )
   
 ### 🌟 Project Highlights
 
@@ -14,7 +18,7 @@ It enables privacy-preserving, realistic synthetic cytology image generation dri
 The pretrained COIN model weights are available on [Hugging Face](https://huggingface.co/LexieK/COIN).  
 You can request access and download the weights directly from the link above.
 
-🎉 We are also delighted to share that the COIN manuscript has been accepted by Clinical Cancer Research.
+🎉 We are also delighted to share that the COIN manuscript has been accepted by Clinical Cancer Research and selected as the cover article for the 15 February 2026 issue (Volume 32, Issue 4).
 
 ### 📝 Abstract
 Purpose: Cytology is a cornerstone of pathologic diagnosis. However, the use of artificial intelligence (AI) models for cytology-based diagnostics remains constrained by limited data availability and stringent privacy regulations. This study aims to develop COIN, a controllable cytology image generation foundation model, to address these challenges by synthesizing high-quality cytology images to enhance AI diagnostics and support clinical applications. 
