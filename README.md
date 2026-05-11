@@ -4,9 +4,7 @@
 
 #### Clinical Cancer Research
 
-#### [Journal Link](https://aacrjournals.org/clincancerres/article/doi/10.1158/1078-0432.CCR-25-2445/771470/A-Generative-Foundation-Model-for-Scalable
-        
-        )
+#### [Journal Link](https://aacrjournals.org/clincancerres/article/doi/10.1158/1078-0432.CCR-25-2445/771470/A-Generative-Foundation-Model-for-Scalable)
   
 ### 🌟 Project Highlights
 
