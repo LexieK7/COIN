@@ -16,7 +16,7 @@ You can request access and download the weights directly from the link above.
 
 🎉 We are also delighted to share that the COIN manuscript has been accepted by Clinical Cancer Research and selected as the cover article for the 15 February 2026 issue (Volume 32, Issue 4).
 
-🎉 We are excited to announce the release of our new cytology visual foundation model CRWON(https://github.com/LexieK7/CROWN), with pretrained weights and code now publicly available!
+🎉 We are excited to announce the release of our new cytology visual foundation model [CRWON](https://github.com/LexieK7/CROWN), with pretrained weights and code now publicly available!
 
 
 ### 📝 Abstract
