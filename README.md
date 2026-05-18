@@ -16,6 +16,9 @@ You can request access and download the weights directly from the link above.
 
 🎉 We are also delighted to share that the COIN manuscript has been accepted by Clinical Cancer Research and selected as the cover article for the 15 February 2026 issue (Volume 32, Issue 4).
 
+🎉 We are excited to announce the release of our new cytology visual foundation model CRWON(https://github.com/LexieK7/CROWN), with pretrained weights and code now publicly available!
+
+
 ### 📝 Abstract
 Purpose: Cytology is a cornerstone of pathologic diagnosis. However, the use of artificial intelligence (AI) models for cytology-based diagnostics remains constrained by limited data availability and stringent privacy regulations. This study aims to develop COIN, a controllable cytology image generation foundation model, to address these challenges by synthesizing high-quality cytology images to enhance AI diagnostics and support clinical applications. 
 Experimental Design: The COIN model was trained on a large-scale dataset of 112,226 cytology image–report pairs from 16 anatomic sites. Using diagnostic textual reports, it generates 
